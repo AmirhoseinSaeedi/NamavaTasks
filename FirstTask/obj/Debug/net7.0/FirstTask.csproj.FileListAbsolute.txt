@@ -1,0 +1,15 @@
+C:\Users\amirh\Desktop\Amirhosein\programming\Namava\FirstTask\bin\Debug\net7.0\FirstTask.exe
+C:\Users\amirh\Desktop\Amirhosein\programming\Namava\FirstTask\bin\Debug\net7.0\FirstTask.deps.json
+C:\Users\amirh\Desktop\Amirhosein\programming\Namava\FirstTask\bin\Debug\net7.0\FirstTask.runtimeconfig.json
+C:\Users\amirh\Desktop\Amirhosein\programming\Namava\FirstTask\bin\Debug\net7.0\FirstTask.dll
+C:\Users\amirh\Desktop\Amirhosein\programming\Namava\FirstTask\bin\Debug\net7.0\FirstTask.pdb
+C:\Users\amirh\Desktop\Amirhosein\programming\Namava\FirstTask\obj\Debug\net7.0\FirstTask.csproj.AssemblyReference.cache
+C:\Users\amirh\Desktop\Amirhosein\programming\Namava\FirstTask\obj\Debug\net7.0\FirstTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amirh\Desktop\Amirhosein\programming\Namava\FirstTask\obj\Debug\net7.0\FirstTask.AssemblyInfoInputs.cache
+C:\Users\amirh\Desktop\Amirhosein\programming\Namava\FirstTask\obj\Debug\net7.0\FirstTask.AssemblyInfo.cs
+C:\Users\amirh\Desktop\Amirhosein\programming\Namava\FirstTask\obj\Debug\net7.0\FirstTask.csproj.CoreCompileInputs.cache
+C:\Users\amirh\Desktop\Amirhosein\programming\Namava\FirstTask\obj\Debug\net7.0\FirstTask.dll
+C:\Users\amirh\Desktop\Amirhosein\programming\Namava\FirstTask\obj\Debug\net7.0\refint\FirstTask.dll
+C:\Users\amirh\Desktop\Amirhosein\programming\Namava\FirstTask\obj\Debug\net7.0\FirstTask.pdb
+C:\Users\amirh\Desktop\Amirhosein\programming\Namava\FirstTask\obj\Debug\net7.0\FirstTask.genruntimeconfig.cache
+C:\Users\amirh\Desktop\Amirhosein\programming\Namava\FirstTask\obj\Debug\net7.0\ref\FirstTask.dll

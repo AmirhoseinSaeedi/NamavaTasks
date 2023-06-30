@@ -1,0 +1,15 @@
+C:\Users\amirh\Desktop\Amirhosein\programming\Namava\IOC\bin\Debug\net7.0\IOC.exe
+C:\Users\amirh\Desktop\Amirhosein\programming\Namava\IOC\bin\Debug\net7.0\IOC.deps.json
+C:\Users\amirh\Desktop\Amirhosein\programming\Namava\IOC\bin\Debug\net7.0\IOC.runtimeconfig.json
+C:\Users\amirh\Desktop\Amirhosein\programming\Namava\IOC\bin\Debug\net7.0\IOC.dll
+C:\Users\amirh\Desktop\Amirhosein\programming\Namava\IOC\bin\Debug\net7.0\IOC.pdb
+C:\Users\amirh\Desktop\Amirhosein\programming\Namava\IOC\obj\Debug\net7.0\IOC.csproj.AssemblyReference.cache
+C:\Users\amirh\Desktop\Amirhosein\programming\Namava\IOC\obj\Debug\net7.0\IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amirh\Desktop\Amirhosein\programming\Namava\IOC\obj\Debug\net7.0\IOC.AssemblyInfoInputs.cache
+C:\Users\amirh\Desktop\Amirhosein\programming\Namava\IOC\obj\Debug\net7.0\IOC.AssemblyInfo.cs
+C:\Users\amirh\Desktop\Amirhosein\programming\Namava\IOC\obj\Debug\net7.0\IOC.csproj.CoreCompileInputs.cache
+C:\Users\amirh\Desktop\Amirhosein\programming\Namava\IOC\obj\Debug\net7.0\IOC.dll
+C:\Users\amirh\Desktop\Amirhosein\programming\Namava\IOC\obj\Debug\net7.0\refint\IOC.dll
+C:\Users\amirh\Desktop\Amirhosein\programming\Namava\IOC\obj\Debug\net7.0\IOC.pdb
+C:\Users\amirh\Desktop\Amirhosein\programming\Namava\IOC\obj\Debug\net7.0\IOC.genruntimeconfig.cache
+C:\Users\amirh\Desktop\Amirhosein\programming\Namava\IOC\obj\Debug\net7.0\ref\IOC.dll
